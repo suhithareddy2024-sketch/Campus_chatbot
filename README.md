@@ -12,7 +12,7 @@ AI-Powered Intelligence for Every Corner of Your Campus.
 ### Installation
 # Clone the repo
 git clone https://github.com/suhithareddy2024-sketch/Campus_chatbot.git
-cd campus-chatbot
+cd Campus_chatbot
 ### Prerequisites
 - Python 3.10+
 - Google Gemini API Key
