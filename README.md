@@ -11,7 +11,7 @@ AI-Powered Intelligence for Every Corner of Your Campus.
 
 ### Installation
 # Clone the repo
-git clone https://github.com/suhithareddy2024/campus-chatbot.git
+git clone https://github.com/suhithareddy2024/Campus_chatbot.git
 cd campus-chatbot
 ### Prerequisites
 - Python 3.10+
